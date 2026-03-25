@@ -41,7 +41,7 @@ export default function CommunityPage() {
                 <li>Sign up for a course or join the waitlist to get an invite link.</li>
                 <li>Accept the invite and read the welcome channel.</li>
                 <li>Introduce yourself in #introductions and share what you want to build.</li>
-                <li>Participate in workshops and project showcases when you're ready.</li>
+                <li>Participate in workshops and project showcases when you&apos;re ready.</li>
               </ol>
             </div>
           </div>
@@ -60,7 +60,7 @@ export default function CommunityPage() {
             </li>
             <li className="flex gap-4">
               <span className="text-[#0a0a0a] font-bold" aria-hidden>•</span>
-              Share what works. We learn from each other's wins and failures.
+              Share what works. We learn from each other&apos;s wins and failures.
             </li>
             <li className="flex gap-4">
               <span className="text-[#0a0a0a] font-bold" aria-hidden>•</span>

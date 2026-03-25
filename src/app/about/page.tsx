@@ -98,7 +98,7 @@ export default function AboutPage() {
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="font-display text-3xl font-bold tracking-tight text-[#0a0a0a] sm:text-4xl">Why We&apos;re Different</h2>
             <p className="mt-8 text-lg leading-relaxed text-[#1a1a1a]/80 font-sans">
-              We're not another generic AI course. Here's what sets us apart.
+              We&apos;re not another generic AI course. Here&apos;s what sets us apart.
             </p>
           </div>
           <ul className="mx-auto mt-20 max-w-3xl space-y-6">
