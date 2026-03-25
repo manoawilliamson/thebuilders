@@ -64,10 +64,10 @@ export default function AboutPage() {
             <div>
               <h2 className="font-display text-3xl font-bold tracking-tight text-[#0a0a0a] sm:text-4xl">Founder</h2>
               <p className="mt-8 text-base leading-relaxed text-[#1a1a1a]/80 font-sans">
-                After years of watching people struggle to translate AI hype into actual skills, I started The Builders to bridge the gap between &quot;AI is everywhere&quot; and &quot;I can actually build with it.&quot; Having worked in both education and product development, I saw how traditional learning methods failed to keep pace with AI's rapid evolution. We needed something different—something that prioritized building over theory.
+                After years of watching people struggle to translate AI hype into actual skills, I started The Builders to bridge the gap between &quot;AI is everywhere&quot; and &quot;I can actually build with it.&quot; Having worked in both education and product development, I saw how traditional learning methods failed to keep pace with AI&apos;s rapid evolution. We needed something different—something that prioritized building over theory.
               </p>
               <p className="mt-8 text-base leading-relaxed text-[#1a1a1a]/80 font-sans">
-                The best way to learn AI isn't through endless tutorials or abstract concepts. It's by getting your hands dirty, shipping real projects, and learning from a community of fellow builders who are figuring it out alongside you. That's why every course, workshop, and resource we create is designed to get you building something meaningful from day one.
+                The best way to learn AI isn&apos;t through endless tutorials or abstract concepts. It&apos;s by getting your hands dirty, shipping real projects, and learning from a community of fellow builders who are figuring it out alongside you. That&apos;s why every course, workshop, and resource we create is designed to get you building something meaningful from day one.
               </p>
             </div>
           </div>
