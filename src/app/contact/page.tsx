@@ -109,8 +109,8 @@ export default function ContactPage() {
               <div className="mt-16 rounded-2xl border border-[#0a0a0a]/10 bg-[#f5f5f5]/50 p-8">
                 <h3 className="font-display text-lg font-bold tracking-tight text-[#0a0a0a]">Want to be a guest speaker?</h3>
                 <p className="mt-4 text-sm text-[#1a1a1a]/80 font-sans">
-                  We run guest workshops with designers, photographers, and creators. If you'd like to share your
-                  AI workflow with our community, we'd love to hear from you.
+                  We run guest workshops with designers, photographers, and creators. If you&apos;d like to share your
+                  AI workflow with our community, we&apos;d love to hear from you.
                 </p>
                 <a
                   href="mailto:hello@thebuilders.com?subject=Guest%20speaker%20inquiry"

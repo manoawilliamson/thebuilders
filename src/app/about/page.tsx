@@ -14,7 +14,7 @@ const values = [
   },
   {
     title: "Anti-hype",
-    description: "We don't oversell. We teach what works now, and we're honest about what's still evolving.",
+    description: "We don&apos;t oversell. We teach what works now, and we&apos;re honest about what's still evolving.",
   },
   {
     title: "Community-driven",
