@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "5 Prompting Techniques That Actually Work in 2026",
+    "excerpt": "Stop guessing and start getting consistent results. These techniques are used by pros every day.",
+    "date": "2026-02-15",
+    "slug": "5-prompting-techniques-2026",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=320&fit=crop",
+    "category": "Prompting"
+  },
+  {
+    "id": "2",
+    "title": "Vibecoding: What It Is and How to Get Started",
+    "excerpt": "Coding with AI isn't about replacing developers—it's about thinking differently. Here's how.",
+    "date": "2026-02-08",
+    "slug": "vibecoding-get-started",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=320&fit=crop",
+    "category": "Development"
+  },
+  {
+    "id": "3",
+    "title": "The Best AI Tools for Makers and Builders",
+    "excerpt": "A curated list of tools we actually use—from Cursor to ChatGPT to niche builders you haven't heard of.",
+    "date": "2026-02-01",
+    "slug": "best-ai-tools-makers",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=320&fit=crop",
+    "category": "Tools"
+  },
+  {
+    "id": "4",
+    "title": "From AI-Curious to AI-Confident: A 30-Day Path",
+    "excerpt": "A practical roadmap for anyone who's been meaning to learn AI but doesn't know where to start.",
+    "date": "2026-01-25",
+    "slug": "ai-curious-to-confident-30-days",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&h=320&fit=crop",
+    "category": "Learning"
+  }
+]

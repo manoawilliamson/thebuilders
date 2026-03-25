@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Vibecoding & AI-Assisted Development",
+    "description": "Learn to code alongside AI—from pair programming with Copilot to shipping real features faster. Hands-on projects included.",
+    "duration": "4 weeks",
+    "price": "$149",
+    "level": "beginner",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "2",
+    "title": "Perfect Prompting: From Basics to Pro",
+    "description": "Master the art of getting exactly what you need from AI. Structured prompts, chain-of-thought, and real-world workflows.",
+    "duration": "2 weeks",
+    "price": "$79",
+    "level": "beginner",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "3",
+    "title": "AI Builder Tools & Workflows",
+    "description": "No-code and low-code AI builders: ChatGPT, Claude, Cursor, and automation tools. Build real products without a CS degree.",
+    "duration": "3 weeks",
+    "price": "$99",
+    "level": "intermediate",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "4",
+    "title": "Build Your First AI Product",
+    "description": "End-to-end project: ideation, design, build, and launch. You'll ship a real AI-powered product by the end.",
+    "duration": "6 weeks",
+    "price": "$249",
+    "level": "intermediate",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "5",
+    "title": "Advanced AI Automation",
+    "description": "APIs, agents, and automations. Connect AI to your stack and build workflows that save hours every week.",
+    "duration": "4 weeks",
+    "price": "$199",
+    "level": "advanced",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "6",
+    "title": "AI for Creators: Content & Design",
+    "description": "Use AI for writing, design, and video. Practical workflows for creators who want to 10x their output.",
+    "duration": "2 weeks",
+    "price": "$69",
+    "level": "beginner",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop"
+  }
+]

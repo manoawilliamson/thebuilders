@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "quote": "Finally, an AI course that doesn't waste my time. I went from barely using ChatGPT to building a real product in 6 weeks.",
+    "name": "Alex Chen",
+    "role": "Product Designer",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=96&h=96&fit=crop&crop=face"
+  },
+  {
+    "id": "2",
+    "quote": "The prompting course alone was worth 10x the price. My workflow has completely changed.",
+    "name": "Jordan Rivera",
+    "role": "Content Creator",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=96&h=96&fit=crop&crop=face"
+  },
+  {
+    "id": "3",
+    "quote": "I'm not a developer, but I shipped an AI tool for my team. The Builders made it feel achievable.",
+    "name": "Sam Williams",
+    "role": "Marketing Lead",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=96&h=96&fit=crop&crop=face"
+  },
+  {
+    "id": "4",
+    "quote": "No fluff, no hype—just skills I use every single day. Best investment I've made in my career.",
+    "name": "Morgan Lee",
+    "role": "Freelance Writer",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=96&h=96&fit=crop&crop=face"
+  }
+]

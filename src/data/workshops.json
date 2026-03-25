@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "AI for Brand Design",
+    "instructor": "Guest: Sarah Chen, Brand Director at Future Forward",
+    "description": "Learn how top brand designers use AI for mood boards, concepts, and client presentations.",
+    "date": "Coming March 2026",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "2",
+    "title": "AI-Powered Photography Workflows",
+    "instructor": "Guest: Marcus Rodriguez, Professional Photographer",
+    "description": "From editing to ideation—see how professional photographers integrate AI into their workflow.",
+    "date": "Coming April 2026",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&h=400&fit=crop"
+  },
+  {
+    "id": "3",
+    "title": "Building in Public with AI",
+    "instructor": "Guest: Alex Kim, Indie Maker & Creator",
+    "description": "How to build and ship products in public using AI—and grow an audience while you do it.",
+    "date": "Coming May 2026",
+    "image": "https://images.unsplash.com/photo-1542744094-24638eff58bb?w=600&h=400&fit=crop"
+  }
+]
